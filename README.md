@@ -21,7 +21,7 @@ Android TV box OS designed for retro gaming.
 - ANDRODI APPS LIKE GAMEPASS, STADIA, ETC
 
 
-# Currently Planned Devices 
+# CURRENTLY PLANNED DEVICES
 
 - S905X2 ANDROID TV BOXES
 
